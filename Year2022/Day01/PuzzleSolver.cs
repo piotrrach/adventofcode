@@ -1,7 +1,4 @@
-﻿using System;
-using System.IO;
-using System.Linq;
-using Year2022.Properties;
+﻿using Year2022.Properties;
 
 namespace Year2022.Day01
 {

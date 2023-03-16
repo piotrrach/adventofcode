@@ -1,7 +1,4 @@
-﻿using System;
-using System.IO;
-using System.Text.RegularExpressions;
-using Year2022.Common;
+﻿using System.Text.RegularExpressions;
 using Year2022.Properties;
 
 namespace Year2022.Day05
