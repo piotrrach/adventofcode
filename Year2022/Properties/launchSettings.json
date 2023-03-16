@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Year2022": {
+      "commandName": "Project",
+      "commandLineArgs": "-day05"
+    }
+  }
+}
